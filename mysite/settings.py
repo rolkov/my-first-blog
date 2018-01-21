@@ -25,6 +25,7 @@ SECRET_KEY = '9gpc^yf_rah1e%(=1wr(+0k^7!=63++e4-b%j$8#w+gce=xlc='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# dgpablog.pythonanywhere.com
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
