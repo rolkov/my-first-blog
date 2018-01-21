@@ -1,0 +1,24 @@
+Versions
+  Python 3.6
+  Django 1.11
+
+Git & GitHub
+  user: rolkov
+  primary email (private): rolkov+git@gmail.com
+  password: <Közepes>1
+GitHub
+  repository: https://github.com/rolkov/my-first-blog.git
+Django superuser
+  username: rolkov
+  email: rolkov@gmail.com
+  password: <Közepes>1
+PythonAnywhere
+  username: dgpablog
+  email: rolkov+pablog@gmail.com
+  password: <Közepes>1
+  web: http://dgpablog.pythonanywhere.com/
+PythonAnywhere superuser
+  username: rolkov
+  email: rolkov+dgpablog@gmail.com
+  password: <Közepes>1
+  web: http://dgpablog.pythonanywhere.com/admin
