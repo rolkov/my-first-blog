@@ -3,22 +3,22 @@ Versions
   Django 1.11
 
 Git & GitHub
-  user: rolkov
-  primary email (private): rolkov+git@gmail.com
+  user: ...
+  primary email (private): ...+git@gmail.com
   password: <Közepes>1
 GitHub
-  repository: https://github.com/rolkov/my-first-blog.git
+  repository: https://github.com/.../my-first-blog.git
 Django superuser
-  username: rolkov
-  email: rolkov@gmail.com
+  username: ...
+  email: ...@gmail.com
   password: <Közepes>1
 PythonAnywhere
   username: dgpablog
-  email: rolkov+pablog@gmail.com
+  email: ...+pablog@gmail.com
   password: <Közepes>1
   web: http://dgpablog.pythonanywhere.com/
 PythonAnywhere superuser
-  username: rolkov
-  email: rolkov+dgpablog@gmail.com
+  username: ...
+  email: ...+dgpablog@gmail.com
   password: <Közepes>1
   web: http://dgpablog.pythonanywhere.com/admin
