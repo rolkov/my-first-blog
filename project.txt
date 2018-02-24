@@ -22,3 +22,9 @@ PythonAnywhere superuser
   email: ...+dgpablog@gmail.com
   password: <Közepes>1
   web: http://dgpablog.pythonanywhere.com/admin
+Freenom
+  username: rolkovit@gmail.com
+  web: http://freenom.com
+  garanet.ga
+
+Tutorial finished at PostgreSQL installation in https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/en/optional_postgresql_installation/
